@@ -1,7 +1,7 @@
-# JavaScript-APIs für Office
-Willkommen Sie bei der JavaScript-API-Dokumentation für Office. Hier finden Sie alles, was Sie über Office-Add-Ins wissen müssen.
-Für eine optimale Erfahrung wird empfohlen, dass Sie diesen Inhalt auf [dev.office.com](https://dev.office.com/docs/add-ins/overview/office-add-ins) anzeigen.
+# Office JavaScript API
+歡迎使用 Office JavaScript API 文件。 您可以在這裡找到使用 Office 增益集所需了解的所有資訊。
+基於最佳的體驗，我們建議您至 [dev.office.com](https://dev.office.com/docs/add-ins/overview/office-add-ins) 檢視此內容。
 
-## Teilen Sie uns Ihre Meinung mit.
+## 歡迎您提供意見
 
-Ihr Feedback ist uns wichtig. 
+我們很重視您的意見。 
